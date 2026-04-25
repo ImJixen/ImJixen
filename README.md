@@ -37,11 +37,10 @@ Expanding into lower-level languages — C and C# for systems work and broader p
 ---
 
 ## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-stats.tonimatas.dev/api?username=ImJixen&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=300&title_color=ff4d4d&text_color=ffffff&icon_color=ff1a1a&bg_color=0d0d0d&border_color=8b0000" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats.tonimatas.dev/api?username=ImJixen&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=300&title_color=ff4d4d&text_color=ffffff&icon_color=ff1a1a&bg_color=0d0d0d&border_color=8b0000" />
-  </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats.tonimatas.dev/api/top-langs/?username=ImJixen&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=300&title_color=ff4d4d&text_color=ffffff&icon_color=ff1a1a&bg_color=0d0d0d&border_color=8b0000" />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-stats.tonimatas.dev/api/top-langs/?username=ImJixen&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=300&title_color=ff4d4d&text_color=ffffff&icon_color=ff1a1a&bg_color=0d0d0d&border_color=8b0000" />
+</a>
