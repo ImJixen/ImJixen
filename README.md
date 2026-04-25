@@ -38,7 +38,5 @@ Expanding into lower-level languages — C and C# for systems work and broader p
 
 ## Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats.tonimatas.dev/api?username=ImJixen&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&theme=merko&cache_seconds=300"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats.tonimatas.dev/api/top-langs/?username=ImJixen&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=merko&cache_seconds=300"></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats.tonimatas.dev/api?username=ImJixen&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&theme=radical&cache_seconds=300"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats.tonimatas.dev/api/top-langs/?username=ImJixen&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=radical&cache_seconds=300"></a> |
 |---|---|
-
-*Language breakdown reflects public repositories only and may not represent the full picture.*
