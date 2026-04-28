@@ -32,7 +32,6 @@ Custom Minecraft project with bespoke tier systems.
 ## Currently Learning
 [![Learning](https://skillicons.dev/icons?i=cs,c)](https://skillicons.dev/)
 
-Expanding into lower-level languages — C and C# for systems work and broader platform reach.
 
 ---
 
