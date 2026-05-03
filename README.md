@@ -28,7 +28,7 @@ Main flagship project — a custom client focused on performance, modularity, an
 
 ### AbyssalTiers
 Custom Minecraft progression system with unique tier mechanics.  
-http://abyssaltiers.sytes.net:22004/
+http://abyssaltiers.sytes.net:22006/
 
 ---
 
