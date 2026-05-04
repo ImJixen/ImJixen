@@ -22,7 +22,7 @@ I build systems, experiment with ideas, and iterate quickly using modern tooling
 
 ## Projects
 
-### Jixen Client
+### Comet Client
 `In development...`  
 Main flagship project — a custom client focused on performance, modularity, and experimentation.
 
