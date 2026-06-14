@@ -27,8 +27,7 @@ I build systems, experiment with ideas, and iterate quickly using modern tooling
 Main flagship project — a custom client focused on performance, modularity, and experimentation.
 
 ### TopTiers
-Custom Minecraft progression system with unique tier mechanics.  
-https://toptiers.lol
+Custom Minecraft progression system with unique tier mechanics. 
 http://toptiers.lol
 
 ---
