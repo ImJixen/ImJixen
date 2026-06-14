@@ -26,9 +26,10 @@ I build systems, experiment with ideas, and iterate quickly using modern tooling
 `In development...`  
 Main flagship project — a custom client focused on performance, modularity, and experimentation.
 
-### AbyssalTiers
+### TopTiers
 Custom Minecraft progression system with unique tier mechanics.  
-http://abyssaltiers.sytes.net:19115/
+https://toptiers.lol
+http://toptiers.lol
 
 ---
 
